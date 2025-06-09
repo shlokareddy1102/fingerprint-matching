@@ -1,0 +1,68 @@
+Thu Jun 6 14:11:01 2025
+: Login successful for user: admin
+Thu Jun 6 14:12:15 2025
+: Added criminal ID: 101
+Thu Jun 6 14:13:42 2025
+: Viewed criminal ID: 101
+Thu Jun 6 14:15:22 2025
+: Matched fingerprint with criminal ID: 101
+Fri Jun 06 21:36:34 2025
+: Login successful for user: admin
+Fri Jun 06 21:40:59 2025
+: Login successful for user: admin
+Fri Jun 06 21:47:39 2025
+: Login successful for user: admin
+Fri Jun 06 21:48:36 2025
+: Viewed accomplice network for ID: 101
+Fri Jun 06 21:48:36 2025
+: Matched fingerprint with criminal ID: 101
+Sat Jun 07 11:02:16 2025
+: Login successful for user: admin
+Sat Jun 07 11:03:28 2025
+: Matched fingerprint with criminal ID: 101 using zonal method
+Sat Jun 07 11:17:47 2025
+: Login successful for user: admin
+Sat Jun 07 11:27:07 2025
+: Matched fingerprint with criminal ID: 101 using zonal method
+Sat Jun 07 11:28:08 2025
+: Matched fingerprint with criminal ID: 101 using graph method
+Sat Jun 07 11:34:06 2025
+: Login successful for user: admin
+Sat Jun 07 11:35:48 2025
+: Login successful for user: admin
+Sat Jun 07 11:36:49 2025
+: Matched fingerprint with criminal ID: 101
+Sat Jun 07 11:37:27 2025
+: Matched fingerprint with criminal ID: 101
+Sat Jun 07 11:50:03 2025
+: Login successful for user: admin
+Sat Jun 07 16:23:00 2025
+: Login successful for user: admin
+Sat Jun 07 16:51:58 2025
+: Login successful for user: admin
+Sat Jun 07 16:52:48 2025
+: Matched fingerprint with criminal ID: 101
+Sat Jun 07 16:54:57 2025
+: Login successful for user: admin
+Sat Jun 07 16:55:55 2025
+: Matched fingerprint with criminal ID: 101
+Sat Jun 07 17:15:35 2025
+: Login successful for user: admin
+Sat Jun 07 17:16:23 2025
+: Matched fingerprint with criminal ID: 105
+Sat Jun 07 17:17:29 2025
+: Matched fingerprint with criminal ID: 101
+Sat Jun 07 17:20:22 2025
+: Login successful for user: admin
+Sat Jun 07 17:21:30 2025
+: Login successful for user: admin
+Sat Jun 07 17:22:03 2025
+: Matched fingerprint with criminal ID: 101
+Sat Jun 07 17:22:46 2025
+: Matched fingerprint with criminal ID: 101
+Sat Jun 07 17:23:15 2025
+: Viewed criminal ID: 103
+Sat Jun 07 17:24:14 2025
+: Added criminal ID: 106
+Sat Jun 07 17:24:21 2025
+: Viewed criminal ID: 106
